@@ -2,3 +2,5 @@
 
 A pygame mouse clicker made by beepboopblap
 
+must have pygame to run the clicker
+
